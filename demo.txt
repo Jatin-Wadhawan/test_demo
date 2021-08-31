@@ -2,4 +2,31 @@ Hello how are you?
  Welcome to GIT
 
 
+<<<<<<< HEAD
 This is an updated file!!
+
+stash operation ongoing
+=======
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+This is an updated file!!
+=======
+>>>>>>> Stashed changes
+
+This is an updated file!!
+
+Changes are done in wchar_support branch
+
+<<<<<<< Updated upstream
+
+Thank you
+
+=======
+file is temporary saved. will continue editing later.
+
+Thank you
+
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> d8b00f9 ( conflict)
