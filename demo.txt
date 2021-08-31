@@ -2,6 +2,14 @@ Hello how are you?
  Welcome to GIT
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+This is an updated file!!
+
+stash operation ongoing
+=======
+>>>>>>> b6703d7b5ab9aa27516270080040fc4320a8ebf5
 <<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
@@ -24,3 +32,7 @@ Thank you
 
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+=======
+>>>>>>> d8b00f9 ( conflict)
+>>>>>>> b6703d7b5ab9aa27516270080040fc4320a8ebf5

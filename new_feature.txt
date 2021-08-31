@@ -1,6 +1,10 @@
 This is a new feature file in master
 
+<<<<<<< HEAD
 please give your checkout here: "1. wchar_support"
+=======
+please give your checkout here: "3. new"
+>>>>>>> b6703d7b5ab9aa27516270080040fc4320a8ebf5
 1. wchar_Support
 2. test_branch
 3. new branch
