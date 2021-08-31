@@ -3,6 +3,7 @@ Hello how are you?
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is an updated file!!
 
 stash operation ongoing
@@ -30,3 +31,9 @@ Thank you
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 >>>>>>> d8b00f9 ( conflict)
+=======
+This is an updated file!!
+
+Update for features. pick code for test branch from here.
+
+>>>>>>> 85a5d76 (demo updated)
