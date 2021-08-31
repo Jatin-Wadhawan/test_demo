@@ -1,6 +1,6 @@
 This is a new feature file in master
 
-please give your checkout here: "3. new"
+please give your checkout here: "1. test"
 
 1. wchar_Support
 2. test_branch
