@@ -1,7 +1,9 @@
 This is a new feature file in master
 
-please give your checkout here: "1. test"
+please give your checkout here: "4. smoke test"
 
 1. wchar_Support
 2. test_branch
 3. new branch
+4. smoke tests
+5. unit tests
