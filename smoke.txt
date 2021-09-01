@@ -1,0 +1,5 @@
+1. Login
+2. refresh
+3. Back
+4. Logout
+5. click all links and back
